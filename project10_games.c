@@ -1,7 +1,3 @@
-//Name: Rodrigo Molero
-//Unumber:72733446
-//Description: based of a summarized dataset about video games released in 2008 this program will sort the games in the file by review score and print them in the order in a file 
-
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
